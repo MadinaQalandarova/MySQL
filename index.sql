@@ -1,0 +1,2 @@
+-- server bu ma'lumotlar saqlanadigan joy
+-- SQL - Structured Query Language
